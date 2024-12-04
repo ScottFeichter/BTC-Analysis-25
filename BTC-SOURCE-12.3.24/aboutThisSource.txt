@@ -1,0 +1,6 @@
+
+
+the folder called bitcoin is the source code as cloned from https://github.com/bitcoin/bitcoin on 12.3.24
+
+the folder called explanation is the attempt to explain the source code piece by piece
+
